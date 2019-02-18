@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ws_authvalidation
+  cloud:
+      config:
+        uri: http://localhost:8888/configuration
+
